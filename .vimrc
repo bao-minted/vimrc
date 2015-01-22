@@ -54,6 +54,9 @@ set guifont=Monaco:h20
  "Always show current position
  set ruler
  
+ "Show line numbers
+ set nu
+ 
  " Configure backspace so it acts as it should act
  set backspace=eol,start,indent
  set whichwrap+=<,>,h,l
